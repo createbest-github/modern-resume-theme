@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Harouna Sylla
-title: Student at University of Ottawa
+title: Student in Coumputer Engineering
 email: Sylla.Harouna96@Gmail.com
 phone: 613 227 1255
 
@@ -12,10 +12,10 @@ phone: 613 227 1255
 # Dark Mode (true/false/never)
 darkmode: false
 
-# Social links
 
 
-# Additional icon links
+
+
 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
