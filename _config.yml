@@ -4,10 +4,10 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Harouna Sylla
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+title: Student at University of Ottawa
+email: Sylla.Harouna96@Gmail.com
+phone: 613 227 1255
+
 
 # Dark Mode (true/false/never)
 darkmode: false
