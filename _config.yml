@@ -5,6 +5,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Harouna Sylla
 title: Student in Coumputer Engineering
+address: 19 Rue d"Orléan, Gatineau,QC J8T 5T9
 email: Sylla.Harouna96@Gmail.com
 phone: 613 227 1255
 
