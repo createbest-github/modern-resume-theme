@@ -29,13 +29,13 @@ darkmode: false
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+# about_title: |# About Me (Use this to override about section title)
 I am a 23 year old student in computer engineering. I am  dynamic, motivated and ready to learn new things. 
 I can work both as a team memeber and individually.
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
 
-about_title: About 
+about_title: |
 I am a 23 year old student in computer engineering. I am  dynamic, motivated and ready to learn new things. 
 I can work both as a team memeber and individually.
 
